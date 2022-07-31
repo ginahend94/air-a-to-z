@@ -1,0 +1,24 @@
+{
+  "name": "air-a-to-z",
+  "version": "1.0.0",
+  "description": "Chrome extension that sorts AirBnB results",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginahend94/air-a-to-z.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ginahend94/air-a-to-z/issues"
+  },
+  "homepage": "https://github.com/ginahend94/air-a-to-z#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "puppeteer": "^15.5.0"
+  }
+}

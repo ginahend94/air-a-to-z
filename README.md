@@ -1,2 +1,2 @@
 # air-a-to-z
-Chrome extension that sorts AirBnB results
+Firefox Add-on/Chrome extension that sorts AirBnB results
